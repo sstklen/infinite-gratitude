@@ -1,3 +1,5 @@
+[中文版](docs/README.zh.md) · [日本語版](docs/README.ja.md)
+
 # 🐾 無限貓報恩 | Infinite Gratitude | 無限の恩返し
 
 [![GitHub stars](https://img.shields.io/github/stars/sstklen/infinite-gratitude?style=social)](https://github.com/sstklen/infinite-gratitude)
