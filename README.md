@@ -123,6 +123,11 @@ The name "Infinite Gratitude" (無限報恩) comes from cats bringing "gifts" ho
 
 MIT License
 
+## Pair With | 搭配使用 | 組み合わせ
+
+- **YES.md** ([`sstklen/yes.md`](https://github.com/sstklen/yes.md)) — Keep your 10 research agents honest: safety gates, evidence rules, anti-slack detection. | 讓研究 Agent 守規矩：安全閘門 + 證據規則 | エージェントを規律正しく：安全ゲート＋証拠ルール
+- **5x-cto** ([`sstklen/5x-cto`](https://github.com/sstklen/5x-cto)) — Done researching? Build it. Full dev pipeline from requirements to delivery. | 查完了？來蓋。完整開發流水線 | リサーチ完了？構築しよう。完全開発パイプライン
+
 ---
 
 *Made with 🐾 by Washin Village — 和牠一起，療癒全世界*
